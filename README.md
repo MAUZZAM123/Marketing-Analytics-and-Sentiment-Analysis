@@ -305,3 +305,19 @@ fact_customer_reviews_with_sentiment.csv
 
 ---
 
+## 👤 Author
+
+**Mauzzam Shaikh**
+
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mauzzamshaikh1104/)
+* GitHub: [GitHub Profile](https://github.com/MAUZZAM123)
+
+---
+
+## 🌟 Feedback & Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Feedback, suggestions, and contributions are always welcome!
+
+
